@@ -3,7 +3,7 @@
   <img src="https://github.com/MeanGold/CPSC2150-Project/blob/main/Images/Connect_Four.gif">
 </p>
 
-This is the repo for a project that I built in collaboration with three of my classmates. The project is based on the idea for a basic Connect4 game, but this version of the game allows the user to choose the dimensions of the gameboard and how many tokens are required to win. On the backend side, my team and I designed two different implementations: one for ease of access and quickly referencing token placements (using an array), and the other for memory efficiency (using key-value pairs). Throughout the project, I learned aobut different aspects of Software Engineering. The project and course material specifically highlighted areas such as interface design, contract specifications, testing, and enabling multiple implementations through abstraction. Some of the work that I did for the project included...
+This is a copy of a repo for a project that I built in collaboration with three of my classmates. The project is based on the idea for a basic Connect4 game, but this version of the game allows the user to choose the dimensions of the gameboard and how many tokens are required to win. On the backend side, my team and I designed two different implementations: one for ease of access and quickly referencing token placements (using an array), and the other for memory efficiency (using key-value pairs). Throughout the project, I learned aobut different aspects of Software Engineering. The project and course material specifically highlighted areas such as interface design, contract specifications, testing, and enabling multiple implementations through abstraction. Some of the work that I did for the project included...
 - Adding a Factory constructor
 - Creating helper functions for comparing board states
 - Writing JUnit tests for checkIfFree(), the Constructor, WhatsAtPos(), and isPlayerAtPos()
@@ -15,6 +15,8 @@ This is the repo for a project that I built in collaboration with three of my cl
 - Making small edits to the `GameBoard` and `GameBoardMem` contracts
 - Creating the contracts for, writing code for, and testing functionality of `BoardPosition.java`
 - Creating the `BoardPosition` UML diagram
+
+NOTE: I had to copy the contents of this repository from a private repository, so no commit history is shown in this version. The only changes I made from the original project repo were the introduction that is above and the images folder for adding the Connect4 game board graphic.
 
 ## Makefile Instructions
 
