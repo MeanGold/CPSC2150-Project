@@ -16,7 +16,7 @@ This is a copy of a repo for a project that I built in collaboration with three 
 - Creating the contracts for, writing code for, and testing functionality of `BoardPosition.java`
 - Creating the `BoardPosition` UML diagram
 
-NOTE: I had to copy the contents of this repository from a private repository, so no commit history is shown in this version. The only changes I made from the original project repo were the introduction that is above and the images folder for adding the Connect4 game board graphic.
+NOTE: I had to copy the contents of this repository from a private repository, so no commit history is shown in this version. The only changes I made from the original project repo were the introduction that is above and the images folder for adding the Connect4 game board graphic. I have access to and can show the private repo with the full commit history to those that are interested.
 
 ## Makefile Instructions
 
